@@ -1,2 +1,4 @@
-# Initial page
+# 主要内容
+
+![](.gitbook/assets/image.png)
 
