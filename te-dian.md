@@ -7,7 +7,7 @@
 * 自动配置spring和第3方的依赖库。 不需要自己去配置bean了。
 * 不需要xml的配置了。
 
-![](.gitbook/assets/image%20%287%29.png)
+![](.gitbook/assets/image%20%288%29.png)
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
