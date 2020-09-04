@@ -7,6 +7,8 @@
    1. 基于xml方式实现
    2. 基于注解方式实现
 
+### XML方式
+
 基于XML方式实现bean管理：
 
 ```markup
@@ -26,6 +28,8 @@
    1. 传统set方法，改属性值
    2. 使用有参construct去注入。
 
+传统set方法注入属性
+
 ```java
 public class Book {
     private string name;
@@ -39,7 +43,7 @@ public class Book {
 }
 ```
 
-2. 在spring配置文件中通过bean标签创建对象，和配置属性注入
+ 在spring配置文件中通过bean标签创建对象，和配置属性注入
 
 ```java
 <bean id = 'book' class = "com.heng.spring5.Book"> 
@@ -47,4 +51,16 @@ public class Book {
     <property name = 'author' value = 'b'> </property>
 </bean>
 ```
+
+有参constructor注入
+
+```java
+<bean id = 'book' class = "com.heng.spring5.Book">
+    <constructor-arg name = 'name'  value = 'a'  ></construcotr-arg>
+    <constructor-arg name = 'author'  value = 'b'  ></construcotr-arg>
+</bean>
+    
+```
+
+
 
