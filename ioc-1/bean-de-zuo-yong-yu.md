@@ -4,7 +4,7 @@ bean可以为singleton，或者是多实例对象
 
 默认情况下为单实例对象。
 
-![](.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 如何设置singleton。
 
@@ -14,7 +14,7 @@ scope属性 可以通过设置singleton来表示单实例
 
 prototype来表示多实例。
 
-![](.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 ### singleton vs prototype
 

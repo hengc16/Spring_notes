@@ -4,7 +4,7 @@
 
 atuowire 可以装配byName 或者byType
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 如果定义多个相同类型的bean，之后autowire byType，spring会报错，因为类型相同，spring不知道去哪个bean
 
