@@ -25,10 +25,10 @@
 基于XML注入属性：
 
 1. DI:依赖注入，就是注入属性
-   1. 传统set方法，改属性值
+   1. set方法，改属性值
    2. 使用有参construct去注入。
 
-传统set方法注入属性
+set方法注入属性
 
 ```java
 public class Book {
