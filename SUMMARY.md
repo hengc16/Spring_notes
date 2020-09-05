@@ -12,4 +12,5 @@
 * [bean的生命周期](bean-de-sheng-ming-zhou-qi.md)
 * [bean自动装配](bean-zi-dong-zhuang-pei.md)
 * [引入外部文件](yin-ru-wai-bu-wen-jian.md)
+* [注解方式去管理bean](zhu-jie-fang-shi-qu-guan-li-bean.md)
 
