@@ -24,11 +24,11 @@
 
 * 先加入配置信息
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2828%29.png)
 
 * 在spring配置文件中，使用context tag去引入外部文件
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](.gitbook/assets/image%20%2830%29.png)
 
 修改property里的
 

@@ -1,4 +1,4 @@
-# 注解方式去管理bean
+# 注解方式去创建bean对象
 
 ### 什么是注解？
 
@@ -24,4 +24,17 @@
 3. 在class里标记注解，用注解方式创建对象，如果value不写，默认为你class名称（但是首字母小写）
 
 ![](.gitbook/assets/image%20%2823%29.png)
+
+### 配置开启组件扫描：
+
+* 自己重写过滤器
+* 只扫描xxx
+
+![](.gitbook/assets/image%20%2826%29.png)
+
+-除了xxx，都扫描
+
+![](.gitbook/assets/image%20%2827%29.png)
+
+
 
