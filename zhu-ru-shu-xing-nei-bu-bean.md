@@ -53,3 +53,22 @@ public class Emp {
 
 级联赋值\(Cascade assignment\)
 
+```java
+//bean 配置文件
+//创建emp对象
+<bean id = "emp" class = "com.heng.spring5.bean.Emp">
+    //注入属性
+    <property name = "ename" value = "Jay"></property>
+    <property name = "gender" value = "male"> </property>
+    //级联赋值1
+    <property name = "dept" ref = "dept"></property>
+    //级联赋值2  注意这里如果调用deptName这个属性，dept类里一定要有get method
+    <property name = "dept.deptName" value = "tax dept"></property>    
+</bean>
+
+
+<bean id = "dept" class ="com.heng.spring5.bean.Dept">
+    <property name = "dname" value = "tech dept"></property>
+</bean>
+```
+
