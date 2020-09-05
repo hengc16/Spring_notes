@@ -4,4 +4,5 @@
 * [IOC容器](ioc-rong-qi.md)
 * [IOC接口](ioc-jie-kou.md)
 * [bean管理](bean-guan-li.md)
+* [外部注入属性](wai-bu-zhu-ru-shu-xing.md)
 
