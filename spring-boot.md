@@ -2,7 +2,7 @@
 
 省去了xml configuration， 让developer可以更好focus在代码上。
 
-### depend injection： 
+### dependent injection： 
 
 * 为了解耦
 * 如果一个labtop object 里面有ram，disk，和 screen这些class。 如果我们new这些class，就会出现耦合。事后很难替换。
