@@ -10,3 +10,5 @@
 * 再通过@Autowired去container里拿ram，disk，和screen。 这样就不用new了。
 * 如果有多个ram，可以通过@qualifier\("ram1"\) 在通过名字找。
 
+
+
