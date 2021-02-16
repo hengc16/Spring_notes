@@ -1,6 +1,6 @@
 # jason&xml
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
 spring boot supports json by default 
 
@@ -10,7 +10,7 @@ go maven repository to get xml dependency
 
 restart the app, it will support xml
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 restrict by json or xml only, we can use produces.
 

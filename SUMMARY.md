@@ -21,5 +21,5 @@
   * [web using spring](spring-boot/web-using-spring.md)
   * [web app](spring-boot/web-app.md)
   * [jason&xml](spring-boot/jason-and-xml.md)
-  * [post](spring-boot/post.md)
+  * [get&post](spring-boot/post.md)
 
