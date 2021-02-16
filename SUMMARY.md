@@ -22,4 +22,5 @@
   * [web app](spring-boot/web-app.md)
   * [jason&xml](spring-boot/jason-and-xml.md)
   * [get&post](spring-boot/post.md)
+  * [update&delete](spring-boot/update-and-delete.md)
 
