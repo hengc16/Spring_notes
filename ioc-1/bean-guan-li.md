@@ -52,7 +52,7 @@ public class Book {
 </bean>
 ```
 
-有参constructor注入
+有参constructor注入 通过参数名称
 
 ```java
 <bean id = 'book' class = "com.heng.spring5.Book">
