@@ -1,4 +1,4 @@
-# bean自动装配
+# 使用ByName&byType实现自动装配
 
 使用bean tag里的autowire属性类自动装配
 
