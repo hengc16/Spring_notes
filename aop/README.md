@@ -6,7 +6,7 @@ Aspect oriented programming
 
 ### advice
 
-![](../.gitbook/assets/image%20%2860%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
 ### weaving
 
@@ -14,5 +14,5 @@ Aspect oriented programming
 
 ### Spring AOP
 
-![](../.gitbook/assets/image%20%2861%29.png)
+![](../.gitbook/assets/image%20%2864%29.png)
 
