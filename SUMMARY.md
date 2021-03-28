@@ -19,6 +19,7 @@
   * [基于java的配置bean依赖](ioc-1/chun-zhu-jie-kai-fa.md)
 * [AOP](aop/README.md)
   * [代理模式](aop/dai-li-mo-shi.md)
+  * [动态代理模式](aop/dong-tai-dai-li-mo-shi.md)
 * [Spring boot](spring-boot/README.md)
   * [web using spring](spring-boot/web-using-spring.md)
   * [web app](spring-boot/web-app.md)
