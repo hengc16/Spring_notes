@@ -32,4 +32,8 @@
   * [spring data rest](spring-boot/spring-data-rest.md)
 * [hibernate](hibernate/README.md)
   * [crud](hibernate/crud.md)
+  * [configuration file](hibernate/configuration-file.md)
+  * [annotation](hibernate/annotation.md)
+  * [session](hibernate/session.md)
+  * [primary key](hibernate/primary-key.md)
 
