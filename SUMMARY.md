@@ -22,6 +22,7 @@
   * [动态代理模式](aop/dong-tai-dai-li-mo-shi.md)
   * [spring aop](aop/spring-aop.md)
   * [Advice](aop/before.md)
+  * [注解实现Aop](aop/zhu-jie-shi-xian-aop.md)
 * [Spring boot](spring-boot/README.md)
   * [web using spring](spring-boot/web-using-spring.md)
   * [web app](spring-boot/web-app.md)
@@ -29,4 +30,6 @@
   * [get&post](spring-boot/post.md)
   * [update&delete](spring-boot/update-and-delete.md)
   * [spring data rest](spring-boot/spring-data-rest.md)
+* [hibernate](hibernate/README.md)
+  * [crud](hibernate/crud.md)
 
