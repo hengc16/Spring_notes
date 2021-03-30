@@ -1,6 +1,6 @@
 # 1级缓存
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
 2个get， 但只向数据库发了一条sql 语句
 
@@ -12,7 +12,7 @@
 * 注意： 在未提交事务或调用session.flush\(\)之前，也有可能进行flush\(\)操作
   * 执行HQL 或QBC查询，会先进行flush（）操作，来保证得到最新的记录。
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](../.gitbook/assets/image%20%2896%29.png)
 
 ![](../.gitbook/assets/image%20%2890%29.png)
 

@@ -1,6 +1,6 @@
 # session
 
-![](../.gitbook/assets/image%20%2895%29.png)
+![](../.gitbook/assets/image%20%2897%29.png)
 
 ![](../.gitbook/assets/image%20%2888%29.png)
 
