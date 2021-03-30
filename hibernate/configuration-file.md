@@ -1,5 +1,7 @@
 # configuration file
 
+![](../.gitbook/assets/image%20%28114%29.png)
+
 ```markup
 <!DOCTYPE hibernate-configuration PUBLIC
         "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
@@ -31,4 +33,10 @@
 
 </hibernate-configuration>
 ```
+
+### 配置c3p0
+
+![](../.gitbook/assets/image%20%28118%29.png)
+
+![](../.gitbook/assets/image%20%28119%29.png)
 
