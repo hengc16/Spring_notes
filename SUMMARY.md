@@ -27,6 +27,8 @@
 * [SpringMVC](springmvc/README.md)
   * [流程](springmvc/liu-cheng.md)
   * [导入依赖](springmvc/dao-ru-yi-lai.md)
+  * [配置web.xml 注册dispatcherServlet](springmvc/pei-zhi-web.xml-zhu-ce-dispatcherservlet.md)
+  * [配置springmvc-config.xml](springmvc/pei-zhi-springmvcconfig.xml.md)
   * [controller](springmvc/controller.md)
 * [Spring boot](spring-boot/README.md)
   * [web using spring](spring-boot/web-using-spring.md)
