@@ -50,6 +50,7 @@
     * [web app](spring-boot/past-notes/web-app.md)
     * [web using spring](spring-boot/past-notes/web-using-spring.md)
   * [前言](spring-boot/qian-yan.md)
+  * [微服务](spring-boot/wei-fu-wu.md)
 * [hibernate](hibernate/README.md)
   * [hibernate](hibernate/hibernate.md)
   * [ORM](hibernate/orm.md)
