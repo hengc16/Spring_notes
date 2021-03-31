@@ -31,6 +31,7 @@
   * [配置springmvc-config.xml](springmvc/pei-zhi-springmvcconfig.xml.md)
   * [controller](springmvc/controller.md)
   * [@RequestMapping\(\)](springmvc/requestmapping.md)
+  * [Restful风格](springmvc/restful-feng-ge.md)
 * [Spring boot](spring-boot/README.md)
   * [web using spring](spring-boot/web-using-spring.md)
   * [web app](spring-boot/web-app.md)
