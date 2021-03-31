@@ -60,4 +60,6 @@
   * [primary key](hibernate/primary-key.md)
   * [持久化对象](hibernate/chi-jiu-hua-dui-xiang.md)
   * [核心方法](hibernate/he-xin-fang-fa.md)
+  * [@OneToOne](hibernate/onetoone.md)
+  * [一对多关联](hibernate/yi-dui-duo-guan-lian.md)
 
