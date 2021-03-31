@@ -2,15 +2,15 @@
 
 ### 动态代理
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
 ### InvocationHandler
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
 ### Proxy
 
-![](../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
 
 ### 代码
 
