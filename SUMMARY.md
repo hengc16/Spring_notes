@@ -28,6 +28,7 @@
     * [基于java的配置bean依赖](spring-5/ioc-1/chun-zhu-jie-kai-fa.md)
   * [事务\(transaction\)](spring-5/shi-wu-transaction/README.md)
     * [回顾](spring-5/shi-wu-transaction/hui-gu.md)
+    * [配置事务](spring-5/shi-wu-transaction/pei-zhi-shi-wu.md)
 * [SpringMVC](springmvc/README.md)
   * [流程](springmvc/liu-cheng.md)
   * [导入依赖](springmvc/dao-ru-yi-lai.md)
