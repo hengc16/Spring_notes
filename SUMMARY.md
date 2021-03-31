@@ -30,6 +30,7 @@
   * [配置web.xml 注册dispatcherServlet](springmvc/pei-zhi-web.xml-zhu-ce-dispatcherservlet.md)
   * [配置springmvc-config.xml](springmvc/pei-zhi-springmvcconfig.xml.md)
   * [controller](springmvc/controller.md)
+  * [@RequestMapping\(\)](springmvc/requestmapping.md)
 * [Spring boot](spring-boot/README.md)
   * [web using spring](spring-boot/web-using-spring.md)
   * [web app](spring-boot/web-app.md)

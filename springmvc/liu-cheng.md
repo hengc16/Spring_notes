@@ -1,6 +1,6 @@
 # 流程
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28109%29.png)
 
 ### 流程
 
@@ -18,7 +18,7 @@
 
 springMVC把实线部分都做了，我们只需要去实现control层调业务层。和配置视图解析器所要返回的页面名字。
 
-![](../.gitbook/assets/image%20%28113%29.png)
+![](../.gitbook/assets/image%20%28114%29.png)
 
 ### 一次请求
 
