@@ -2,7 +2,7 @@
 
 ### 参数名一样
 
-![](../.gitbook/assets/image%20%28157%29.png)
+![](../.gitbook/assets/image%20%28158%29.png)
 
 ### 参数名不一样
 
