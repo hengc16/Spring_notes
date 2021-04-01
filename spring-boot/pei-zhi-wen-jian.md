@@ -14,7 +14,7 @@
 
 ### person类
 
-![](../.gitbook/assets/image%20%28154%29.png)
+![](../.gitbook/assets/image%20%28155%29.png)
 
 ### yaml注入值
 
@@ -27,4 +27,8 @@
 ### 用原有的properties 去配置
 
 ![](../.gitbook/assets/image%20%28128%29.png)
+
+### properties中文乱码问题
+
+![](../.gitbook/assets/image%20%28152%29.png)
 
