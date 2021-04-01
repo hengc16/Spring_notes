@@ -2,17 +2,17 @@
 
 ### pom.xml
 
-![](../.gitbook/assets/image%20%28151%29.png)
+![](../.gitbook/assets/image%20%28154%29.png)
 
 ### 启动器（starters\)
 
-![](../.gitbook/assets/image%20%28139%29.png)
+![](../.gitbook/assets/image%20%28141%29.png)
 
 ### 主程序
 
-![](../.gitbook/assets/image%20%28144%29.png)
-
 ![](../.gitbook/assets/image%20%28147%29.png)
+
+![](../.gitbook/assets/image%20%28150%29.png)
 
 1. springboot在启动的时候，从类路径/META-INF/spring.factories获取指定的值。
 2. 在这些自动配置的类导入容器，自动配置就会生效，并帮我们进行自动配置。

@@ -2,7 +2,7 @@
 
 用yaml去写applicaiton.properties
 
-![](../.gitbook/assets/image%20%28142%29.png)
+![](../.gitbook/assets/image%20%28145%29.png)
 
 ### 之前
 
@@ -14,15 +14,15 @@
 
 ### person类
 
-![](../.gitbook/assets/image%20%28156%29.png)
+![](../.gitbook/assets/image%20%28159%29.png)
 
 ### yaml注入值
 
-![](../.gitbook/assets/image%20%28146%29.png)
+![](../.gitbook/assets/image%20%28149%29.png)
 
 ### @configurationProperties
 
-![](../.gitbook/assets/image%20%28130%29.png)
+![](../.gitbook/assets/image%20%28131%29.png)
 
 ### 用原有的properties 去配置
 
@@ -30,9 +30,9 @@
 
 ### properties中文乱码问题
 
-![](../.gitbook/assets/image%20%28152%29.png)
+![](../.gitbook/assets/image%20%28155%29.png)
 
 ### 对比
 
-![](../.gitbook/assets/image%20%28157%29.png)
+![](../.gitbook/assets/image%20%28161%29.png)
 

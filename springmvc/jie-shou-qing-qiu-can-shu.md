@@ -2,15 +2,15 @@
 
 ### 参数名一样
 
-![](../.gitbook/assets/image%20%28161%29.png)
+![](../.gitbook/assets/image%20%28165%29.png)
 
 ### 参数名不一样
 
-![](../.gitbook/assets/image%20%28154%29.png)
+![](../.gitbook/assets/image%20%28157%29.png)
 
 ### 提交的是个对象
 
 ![](../.gitbook/assets/image%20%28127%29.png)
 
-![](../.gitbook/assets/image%20%28132%29.png)
+![](../.gitbook/assets/image%20%28133%29.png)
 
