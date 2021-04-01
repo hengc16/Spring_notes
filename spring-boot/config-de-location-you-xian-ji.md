@@ -1,4 +1,4 @@
-# config的location优先级
+# 多环境配置
 
 ![](../.gitbook/assets/image%20%28160%29.png)
 
