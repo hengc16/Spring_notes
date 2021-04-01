@@ -14,7 +14,7 @@
 
 ### person类
 
-![](../.gitbook/assets/image%20%28155%29.png)
+![](../.gitbook/assets/image%20%28156%29.png)
 
 ### yaml注入值
 
@@ -34,5 +34,5 @@
 
 ### 对比
 
-![](../.gitbook/assets/image%20%28156%29.png)
+![](../.gitbook/assets/image%20%28157%29.png)
 

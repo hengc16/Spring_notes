@@ -53,6 +53,7 @@
   * [微服务](spring-boot/wei-fu-wu.md)
   * [自动配置](spring-boot/zi-dong-pei-zhi.md)
   * [配置文件](spring-boot/pei-zhi-wen-jian.md)
+  * [jsr303校验（validation）](spring-boot/jsr303-xiao-yan-validation.md)
 * [hibernate](hibernate/README.md)
   * [hibernate](hibernate/hibernate.md)
   * [ORM](hibernate/orm.md)
