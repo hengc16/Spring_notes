@@ -52,6 +52,7 @@
   * [前言](spring-boot/qian-yan.md)
   * [微服务](spring-boot/wei-fu-wu.md)
   * [自动配置](spring-boot/zi-dong-pei-zhi.md)
+  * [配置文件](spring-boot/pei-zhi-wen-jian.md)
 * [hibernate](hibernate/README.md)
   * [hibernate](hibernate/hibernate.md)
   * [ORM](hibernate/orm.md)
