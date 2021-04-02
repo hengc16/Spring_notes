@@ -56,6 +56,8 @@
   * [jsr303校验（validation）](spring-boot/jsr303-xiao-yan-validation.md)
   * [多环境配置](spring-boot/config-de-location-you-xian-ji.md)
   * [@RestController vs @ Controller](spring-boot/untitled.md)
+  * [web位置](spring-boot/web-wei-zhi.md)
+  * [spring security](spring-boot/spring-security.md)
 * [hibernate](hibernate/README.md)
   * [hibernate](hibernate/hibernate.md)
   * [ORM](hibernate/orm.md)
