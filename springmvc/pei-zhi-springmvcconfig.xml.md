@@ -1,4 +1,4 @@
-# 配置springmvc-config.xml
+# 配置springmvc-config.xml  视图解析器
 
 开启包扫描
 
@@ -28,5 +28,7 @@
 
 ```
 
+### java annotation
 
+![](../.gitbook/assets/image%20%28168%29.png)
 
