@@ -1,4 +1,6 @@
-# 配置web.xml 注册dispatcherServlet
+# 注册dispatcherServlet
+
+### 配置web.xml
 
 ```markup
 <?xml version="1.0" encoding="UTF-8"?>
@@ -34,5 +36,7 @@
 
 ```
 
+### java annotation
 
+![](../.gitbook/assets/image%20%28175%29.png)
 

@@ -32,7 +32,7 @@
 * [SpringMVC](springmvc/README.md)
   * [流程](springmvc/liu-cheng.md)
   * [导入依赖](springmvc/dao-ru-yi-lai.md)
-  * [配置web.xml 注册dispatcherServlet](springmvc/pei-zhi-web.xml-zhu-ce-dispatcherservlet.md)
+  * [注册dispatcherServlet](springmvc/pei-zhi-web.xml-zhu-ce-dispatcherservlet.md)
   * [配置springmvc-config.xml  视图解析器](springmvc/pei-zhi-springmvcconfig.xml.md)
   * [controller](springmvc/controller.md)
   * [@EnableWebMBC](springmvc/enablewebmbc.md)
@@ -74,4 +74,6 @@
   * [一对多关联](hibernate/yi-dui-duo-guan-lian.md)
 * [spring security](spring-security/README.md)
   * [overview](spring-security/overview.md)
+  * [JWT（json web token）](spring-security/jwt-json-web-token.md)
+  * [spring security configuration](spring-security/spring-security-configuration.md)
 
