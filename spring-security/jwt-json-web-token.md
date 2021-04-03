@@ -2,6 +2,8 @@
 
 JWT is for authorization not authentication. 并不是去database check用户密码是否正确， 而是用来保证用户是原来的用户，并免去2次登陆。
 
+[https://segmentfault.com/a/1190000021810849](https://segmentfault.com/a/1190000021810849)
+
 ![](../.gitbook/assets/image%20%28180%29.png)
 
 原本用户的信息是存在session里放在server memory上， JWT可以把用户信息安全的存在一个json token里。
