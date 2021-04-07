@@ -88,4 +88,6 @@
   * [cluster集群](spring-cloud/cluster-ji-qun.md)
   * [CAP](spring-cloud/cap.md)
   * [Ribbon](spring-cloud/ribbon.md)
+  * [负载均衡rule](spring-cloud/fu-zai-jun-heng-rule.md)
+  * [hystrix](spring-cloud/hystrix.md)
 
