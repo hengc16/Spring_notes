@@ -2,11 +2,11 @@
 
 ![](../.gitbook/assets/image%20%28214%29.png)
 
-![](../.gitbook/assets/image%20%28224%29.png)
+![](../.gitbook/assets/image%20%28225%29.png)
 
 导入依赖
 
-![](../.gitbook/assets/image%20%28220%29.png)
+![](../.gitbook/assets/image%20%28221%29.png)
 
 在指定请求加入熔断机制
 
