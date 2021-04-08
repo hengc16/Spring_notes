@@ -90,4 +90,5 @@
   * [Ribbon](spring-cloud/ribbon.md)
   * [负载均衡rule](spring-cloud/fu-zai-jun-heng-rule.md)
   * [hystrix](spring-cloud/hystrix.md)
+  * [降级](spring-cloud/jiang-ji.md)
 
