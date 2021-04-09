@@ -95,4 +95,6 @@
 * [CI/CD](ci-cd.md)
 * [Docker](docker/README.md)
   * [概述](docker/gai-shu.md)
+  * [安装](docker/an-zhuang.md)
+  * [常用命令](docker/chang-yong-ming-ling.md)
 
