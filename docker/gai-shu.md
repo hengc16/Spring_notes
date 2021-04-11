@@ -1,6 +1,6 @@
 # 概述
 
-![](../.gitbook/assets/image%20%28243%29.png)
+![](../.gitbook/assets/image%20%28246%29.png)
 
 ![](../.gitbook/assets/image%20%28228%29.png)
 
