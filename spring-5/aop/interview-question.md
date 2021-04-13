@@ -20,3 +20,9 @@ how you handle transactions
 
 what is the difference between jar file and war file
 
+war contains web-inf and meta-inf directories,  jar with any desired structure.
+
+JAR files allow us to package multiple files in order to use it as a library, plugin, or any kind of application. On the other hand, WAR files are used only for web applications.
+
+[https://www.baeldung.com/java-jar-war-packaging](https://www.baeldung.com/java-jar-war-packaging)
+
