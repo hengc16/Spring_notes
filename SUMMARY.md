@@ -83,6 +83,7 @@
   * [配置swagger](swagger/pei-zhi-swagger.md)
 * [Spring Cloud](spring-cloud/README.md)
   * [Eureka](spring-cloud/eureka.md)
+  * [eureka server](spring-cloud/eureka-server.md)
   * [注册中心配置](spring-cloud/zhu-ce-zhong-xin-pei-zhi.md)
   * [eureka-client 配置](spring-cloud/eurekaclient-pei-zhi.md)
   * [cluster集群](spring-cloud/cluster-ji-qun.md)
