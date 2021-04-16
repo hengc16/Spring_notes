@@ -1,5 +1,7 @@
 # @Aspect
 
+[https://blog.csdn.net/anurnomeru/article/details/79798659](https://blog.csdn.net/anurnomeru/article/details/79798659)
+
 切面（ASPECT）类：在上面例子中相当于自己定义的一个日志工具类。 
 
 告诉Spring到底哪个是切面类，在类上注解`@Aspect`
