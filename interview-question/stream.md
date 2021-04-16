@@ -94,7 +94,10 @@ cluster index vs non index
 
 ```text
 cascade 
+
 ```
+
+It is used in conjunction with ON DELETE or ON UPDATE. It means that the child data is set to NULL when the parent data is deleted or updated.
 
 ```text
 controlleradvice
