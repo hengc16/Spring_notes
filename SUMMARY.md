@@ -105,4 +105,5 @@
 * [kafka](kafka/README.md)
   * [概述](kafka/gai-shu.md)
   * [消息队列的2种模式](kafka/xiao-xi-dui-lie-de-2-zhong-mo-shi.md)
+  * [kafka基础架构](kafka/kafka-ji-chu-jia-gou.md)
 
