@@ -74,6 +74,8 @@
   * [核心方法](hibernate/he-xin-fang-fa.md)
   * [一对多关联](hibernate/yi-dui-duo-guan-lian.md)
   * [fetch eager lazy](hibernate/fetch-eager-lazy.md)
+  * [caching](hibernate/caching.md)
+  * [hibernate query language](hibernate/hibernate-query-language.md)
 * [spring security](spring-security/README.md)
   * [overview](spring-security/overview.md)
   * [JWT（json web token）](spring-security/jwt-json-web-token.md)
