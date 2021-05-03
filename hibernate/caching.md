@@ -27,7 +27,7 @@ add annotation
 
 by default, 2nd level caching does not support sql query,  need to invoke it to support.
 
-![](../.gitbook/assets/image%20%28271%29.png)
+![](../.gitbook/assets/image%20%28272%29.png)
 
 ![](../.gitbook/assets/image%20%28269%29.png)
 
