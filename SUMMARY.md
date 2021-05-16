@@ -78,6 +78,7 @@
   * [hibernate query language](hibernate/hibernate-query-language.md)
 * [spring security](spring-security/README.md)
   * [overview](spring-security/overview.md)
+  * [会话（session）](spring-security/hui-hua-session.md)
   * [JWT（json web token）](spring-security/jwt-json-web-token.md)
   * [spring security configuration](spring-security/spring-security-configuration.md)
   * [Untitled](spring-security/untitled.md)
