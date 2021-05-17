@@ -12,7 +12,7 @@
 
 ### 视图解析器在application.properties中配置
 
-![](../.gitbook/assets/image%20%28280%29.png)
+![](../.gitbook/assets/image%20%28281%29.png)
 
 ![](../.gitbook/assets/image%20%28276%29.png)
 

@@ -82,6 +82,7 @@
   * [token](spring-security/token.md)
   * [授权的数据模型](spring-security/shou-quan-de-shu-ju-mo-xing.md)
   * [spring boot配置spring security](spring-security/shi-yong-websecurity.md)
+  * [工作原理](spring-security/gong-zuo-yuan-li.md)
   * [JWT（json web token）](spring-security/jwt-json-web-token.md)
   * [spring security configuration](spring-security/spring-security-configuration.md)
   * [Untitled](spring-security/untitled.md)
