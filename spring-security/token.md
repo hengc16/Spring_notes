@@ -1,6 +1,6 @@
 # token
 
-![](../.gitbook/assets/image%20%28284%29.png)
+![](../.gitbook/assets/image%20%28285%29.png)
 
 * 用户认证成功，服务端生成一个token发给用户端
   * 用户端把token存在cookie或localstorage里
