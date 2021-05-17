@@ -81,7 +81,7 @@
   * [会话（session）](spring-security/hui-hua-session.md)
   * [token](spring-security/token.md)
   * [授权的数据模型](spring-security/shou-quan-de-shu-ju-mo-xing.md)
-  * [使用websecurity](spring-security/shi-yong-websecurity.md)
+  * [spring boot配置spring security](spring-security/shi-yong-websecurity.md)
   * [JWT（json web token）](spring-security/jwt-json-web-token.md)
   * [spring security configuration](spring-security/spring-security-configuration.md)
   * [Untitled](spring-security/untitled.md)

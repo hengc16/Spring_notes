@@ -2,7 +2,7 @@
 
 基于session的认证
 
-![](../.gitbook/assets/image%20%28274%29.png)
+![](../.gitbook/assets/image%20%28275%29.png)
 
 * 用户登陆成功
 * 服务端创建一个session
