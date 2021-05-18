@@ -1,6 +1,6 @@
 # 工作原理
 
-![](../.gitbook/assets/image%20%28288%29.png)
+![](../.gitbook/assets/image%20%28289%29.png)
 
 * 用filterchain来过滤用户请求
 * 用**authentication manager** 来验证用户身份
@@ -10,5 +10,5 @@
 
 ![](../.gitbook/assets/image%20%28273%29.png)
 
-![](../.gitbook/assets/image%20%28282%29.png)
+![](../.gitbook/assets/image%20%28283%29.png)
 

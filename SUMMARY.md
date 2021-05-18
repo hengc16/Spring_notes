@@ -86,6 +86,7 @@
   * [认证流程](spring-security/ren-zheng-liu-cheng.md)
   * [授权流程](spring-security/shou-quan-liu-cheng.md)
   * [database认证](spring-security/database-ren-zheng.md)
+  * [httpsecurity](spring-security/httpsecurity.md)
   * [JWT（json web token）](spring-security/jwt-json-web-token.md)
   * [spring security configuration](spring-security/spring-security-configuration.md)
   * [Untitled](spring-security/untitled.md)
