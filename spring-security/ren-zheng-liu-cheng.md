@@ -12,6 +12,12 @@
 * 通过securityConextHolder 将authentication保持到安全上下文。
 * 通过改userdetailservice来实现验证
   * 将来在数据库拿用户信息
-* 
+
+
+
+### passwordEncoder
+
+![](../.gitbook/assets/image%20%28282%29.png)
+
 
 
