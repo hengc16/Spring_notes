@@ -1,6 +1,6 @@
 # 认证流程
 
-![](../.gitbook/assets/image%20%28284%29.png)
+![](../.gitbook/assets/image%20%28285%29.png)
 
 * 用户提交密码
 * 由usernamepasswordauthenticationfileter 来处理请求
@@ -17,7 +17,7 @@
 
 ### passwordEncoder
 
-![](../.gitbook/assets/image%20%28286%29.png)
+![](../.gitbook/assets/image%20%28287%29.png)
 
 
 

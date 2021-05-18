@@ -4,7 +4,7 @@
 
 ### 配置application.properties
 
-![](../.gitbook/assets/image%20%28282%29.png)
+![](../.gitbook/assets/image%20%28283%29.png)
 
 ### 确保有springboot启动类
 
@@ -12,7 +12,7 @@
 
 ### 视图解析器在application.properties中配置
 
-![](../.gitbook/assets/image%20%28292%29.png)
+![](../.gitbook/assets/image%20%28293%29.png)
 
-![](../.gitbook/assets/image%20%28281%29.png)
+![](../.gitbook/assets/image%20%28282%29.png)
 
