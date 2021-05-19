@@ -85,6 +85,7 @@
   * [工作原理](spring-security/gong-zuo-yuan-li.md)
   * [认证流程](spring-security/ren-zheng-liu-cheng.md)
   * [授权流程](spring-security/shou-quan-liu-cheng.md)
+  * [方法授权](spring-security/fang-fa-shou-quan.md)
   * [database认证](spring-security/database-ren-zheng.md)
   * [httpsecurity](spring-security/httpsecurity.md)
   * [JWT（json web token）](spring-security/jwt-json-web-token.md)
