@@ -13,5 +13,7 @@ Authorization Server要对用户进行验证并颁发token，对应request要有
 
 * OAuth2AuthenticationProcessingFilter 用来对请求的身份鉴权
 
+![](../.gitbook/assets/image%20%28307%29.png)
 
+![](../.gitbook/assets/image%20%28314%29.png)
 

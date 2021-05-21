@@ -92,6 +92,8 @@
   * [spring security configuration](spring-security/spring-security-configuration.md)
   * [分布式系统security](spring-security/untitled.md)
   * [Oauth2](spring-security/oauth2.md)
+  * [授权服务](spring-security/shou-quan-fu-wu.md)
+  * [管理token](spring-security/guan-li-token.md)
 * [swagger](swagger/README.md)
   * [helloworld](swagger/helloworld.md)
   * [配置swagger](swagger/pei-zhi-swagger.md)
