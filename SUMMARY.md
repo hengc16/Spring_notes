@@ -116,6 +116,8 @@
   * [安装](docker/an-zhuang.md)
   * [常用命令](docker/chang-yong-ming-ling-1.md)
   * [create image](docker/create-image.md)
+  * [create image from app](docker/create-image-from-app.md)
+  * [container port mapping](docker/container-port-mapping.md)
   * [镜像](docker/chang-yong-ming-ling.md)
   * [数据卷容器data volume](docker/shu-ju-juan-rong-qi.md)
   * [Dockerfile](docker/dockerfile.md)
