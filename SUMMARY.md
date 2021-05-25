@@ -122,6 +122,8 @@
   * [数据卷容器data volume](docker/shu-ju-juan-rong-qi.md)
   * [Dockerfile](docker/dockerfile.md)
   * [docker file 命令](docker/docker-file-ming-ling.md)
+  * [docker compose](docker/docker-compose.md)
+  * [docker volume](docker/docker-volume.md)
 * [kafka](kafka/README.md)
   * [概述](kafka/gai-shu.md)
   * [消息队列的2种模式](kafka/xiao-xi-dui-lie-de-2-zhong-mo-shi.md)

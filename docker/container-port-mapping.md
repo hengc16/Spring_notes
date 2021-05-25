@@ -1,6 +1,6 @@
 # container port mapping
 
-![](../.gitbook/assets/image%20%28319%29.png)
+![](../.gitbook/assets/image%20%28321%29.png)
 
 localhost 到container的port
 
