@@ -127,6 +127,7 @@
 * [k8s](k8s/README.md)
   * [what&why](k8s/what-and-why.md)
   * [组成](k8s/zu-cheng.md)
+  * [核心概念](k8s/he-xin-gai-nian.md)
 * [kafka](kafka/README.md)
   * [概述](kafka/gai-shu.md)
   * [消息队列的2种模式](kafka/xiao-xi-dui-lie-de-2-zhong-mo-shi.md)
