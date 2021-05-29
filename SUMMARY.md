@@ -126,6 +126,7 @@
   * [docker volume](docker/docker-volume.md)
 * [k8s](k8s/README.md)
   * [what&why](k8s/what-and-why.md)
+  * [组成](k8s/zu-cheng.md)
 * [kafka](kafka/README.md)
   * [概述](kafka/gai-shu.md)
   * [消息队列的2种模式](kafka/xiao-xi-dui-lie-de-2-zhong-mo-shi.md)
