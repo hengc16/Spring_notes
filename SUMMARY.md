@@ -135,6 +135,8 @@
 * [ActiveMQ](activemq.md)
 * [azure devops](azure-devops/README.md)
   * [dev ops](azure-devops/dev-ops.md)
+  * [azure dev ops](azure-devops/azure-dev-ops.md)
+  * [pipeline](azure-devops/pipeline.md)
   * [build pipeline\(CI\)](azure-devops/build-pipeline-ci.md)
 * [wiremock](wiremock/README.md)
   * [dependency](wiremock/dependency.md)
