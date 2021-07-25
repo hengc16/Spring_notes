@@ -141,5 +141,6 @@
 * [wiremock](wiremock/README.md)
   * [dependency](wiremock/dependency.md)
   * [Untitled](wiremock/untitled.md)
-* [SSIS](ssis.md)
+* [SSIS](ssis/README.md)
+  * [info](ssis/info.md)
 

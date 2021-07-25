@@ -17,15 +17,15 @@ keywords:
 
 ### Agent:
 
-![](../.gitbook/assets/image%20%28344%29.png)
+![](../.gitbook/assets/image%20%28349%29.png)
 
 ### Approvals:
 
-![](../.gitbook/assets/image%20%28341%29.png)
+![](../.gitbook/assets/image%20%28344%29.png)
 
 ### Artifacts:
 
-![](../.gitbook/assets/image%20%28346%29.png)
+![](../.gitbook/assets/image%20%28352%29.png)
 
 
 
@@ -33,7 +33,7 @@ keywords:
 
 where we deploy our application.
 
-![](../.gitbook/assets/image%20%28342%29.png)
+![](../.gitbook/assets/image%20%28345%29.png)
 
 ### Job:
 

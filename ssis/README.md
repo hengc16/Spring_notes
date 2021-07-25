@@ -12,15 +12,25 @@
 
 ### Control flow:
 
-![](.gitbook/assets/image%20%28345%29.png)
+one control flow can contain multiple data flow
+
+![](../.gitbook/assets/image%20%28351%29.png)
 
 ### Data Flow :
 
 design for data migration.
 
-![](.gitbook/assets/image%20%28339%29.png)
+![](../.gitbook/assets/image%20%28340%29.png)
 
 source -&gt; logic -&gt; destination
+
+### Parameters:
+
+For different database. Instead of change SSIS package. we can change the parameter. 
+
+### Event handlers
+
+handle errors. 
 
 
 
