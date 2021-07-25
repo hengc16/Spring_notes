@@ -1,4 +1,4 @@
-# info
+# intro
 
 ### What is SSIS
 
@@ -14,7 +14,7 @@
 
 one control flow can contain multiple data flow
 
-![](../.gitbook/assets/image%20%28351%29.png)
+![](../.gitbook/assets/image%20%28353%29.png)
 
 ### Data Flow :
 
@@ -44,7 +44,7 @@ select task on excecutable section, and evenhandler on the right.
 
 ### Variables
 
-![](../.gitbook/assets/image%20%28346%29.png)
+![](../.gitbook/assets/image%20%28347%29.png)
 
 create variable to use at any tasks in this ssis package. 
 
@@ -54,9 +54,11 @@ create variable to use at any tasks in this ssis package.
 
 ### Solution Explorer
 
-![](../.gitbook/assets/image%20%28347%29.png)
+![](../.gitbook/assets/image%20%28348%29.png)
 
 ### what is SSIS 
 
  A **SQL Server Integration Services** \(SSIS\) package includes the necessary components, such as the connection manager, tasks, control flow, data flow, parameters, event handlers, and variables, to execute a specific ETL task.
+
+
 

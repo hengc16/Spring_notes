@@ -142,5 +142,6 @@
   * [dependency](wiremock/dependency.md)
   * [Untitled](wiremock/untitled.md)
 * [SSIS](ssis/README.md)
-  * [info](ssis/info.md)
+  * [intro](ssis/info.md)
+  * [create a basic ssis](ssis/create-a-basic-ssis.md)
 
