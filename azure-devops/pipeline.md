@@ -17,5 +17,43 @@ keywords:
 
 ### Agent:
 
+![](../.gitbook/assets/image%20%28343%29.png)
+
+### Approvals:
+
 ![](../.gitbook/assets/image%20%28340%29.png)
+
+### Artifacts:
+
+![](../.gitbook/assets/image%20%28344%29.png)
+
+
+
+### environment:
+
+where we deploy our application.
+
+![](../.gitbook/assets/image%20%28341%29.png)
+
+### Job:
+
+![](../.gitbook/assets/image%20%28338%29.png)
+
+### Run:
+
+* one execution of pipeline\(build or release\) is known as run.
+
+### stage:
+
+* a stage is used to mark separation of concerns.
+* example = creating build for QA, Staging, Production etc. 
+* stage is very important in adding an extra validation before your code goes to production. 
+
+### Trigger:
+
+* A trigger is a setup that tells the pipeline when to run.
+* we can configure a pipeline when-
+  * new push in repo
+  * at scheduled time
+  * upon completion of another build.
 
