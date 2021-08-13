@@ -6,17 +6,17 @@
 
 ### GetAll
 
-![](../.gitbook/assets/image%20%28393%29.png)
+![](../.gitbook/assets/image%20%28395%29.png)
 
 ### create
 
-![](../.gitbook/assets/image%20%28396%29.png)
+![](../.gitbook/assets/image%20%28399%29.png)
 
 ### delete
 
 
 
-![](../.gitbook/assets/image%20%28400%29.png)
+![](../.gitbook/assets/image%20%28406%29.png)
 
 ### update
 
@@ -24,11 +24,11 @@
 
 ### get
 
-![](../.gitbook/assets/image%20%28405%29.png)
+![](../.gitbook/assets/image%20%28414%29.png)
 
 ### 根据年龄段查找用户
 
-![](../.gitbook/assets/image%20%28411%29.png)
+![](../.gitbook/assets/image%20%28421%29.png)
 
-![](../.gitbook/assets/image%20%28403%29.png)
+![](../.gitbook/assets/image%20%28409%29.png)
 

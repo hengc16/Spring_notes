@@ -4,7 +4,7 @@
 
 
 
-![](../.gitbook/assets/image%20%28386%29.png)
+![](../.gitbook/assets/image%20%28388%29.png)
 
 写个service去远程调用
 
@@ -12,5 +12,5 @@
 
 注入
 
-![](../.gitbook/assets/image%20%28381%29.png)
+![](../.gitbook/assets/image%20%28382%29.png)
 
