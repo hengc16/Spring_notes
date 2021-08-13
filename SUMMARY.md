@@ -146,6 +146,7 @@
   * [Feign 请求传参](feign/feign-qing-qiu-chuan-can.md)
   * [gzip 压缩](feign/gzip-ya-suo.md)
   * [HTTP连接池](feign/http-lian-jie-chi.md)
+  * [请求超时](feign/qing-qiu-chao-shi.md)
 * [WebFlux\(reactive stream\)](webflux-reactive-stream/README.md)
   * [JDK9 Reactive stream](webflux-reactive-stream/jdk9-reactive-stream.md)
   * [SSE\(Server-sent events\)](webflux-reactive-stream/sse-server-sent-events.md)
