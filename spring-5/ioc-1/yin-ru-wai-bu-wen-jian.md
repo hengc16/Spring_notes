@@ -18,19 +18,18 @@
 
 1. 先创建一个properties的文件，写数据库的信息
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](<../../.gitbook/assets/image (22).png>)
 
-2. 读取properites的内容，需要通过spring-context去做引用
+2\. 读取properites的内容，需要通过spring-context去做引用
 
 * 先加入配置信息
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](<../../.gitbook/assets/image (32).png>)
 
 * 在spring配置文件中，使用context tag去引入外部文件
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](<../../.gitbook/assets/image (34).png>)
 
 修改property里的
 
-![](../../.gitbook/assets/image%20%2824%29.png)
-
+![](<../../.gitbook/assets/image (24).png>)

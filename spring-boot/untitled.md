@@ -36,5 +36,4 @@ public class SimpleBookRestController {
 }
 ```
 
- **The controller is annotated with the** _**@RestController**_ **annotation; therefore, the** _**@ResponseBody**_ **isn't required.**
-
+&#x20;**The controller is annotated with the **_**@RestController**_** annotation; therefore, the **_**@ResponseBody**_** isn't required.**
